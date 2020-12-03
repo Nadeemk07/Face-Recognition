@@ -1,0 +1,4 @@
+Python 2.7
+OpenCV
+Numpy
+Haar Cascade Frontal face classifiers
