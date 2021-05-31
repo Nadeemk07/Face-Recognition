@@ -15,5 +15,5 @@ central pixel.
 
 (iii) Grid X : the number of cells in the horizontal direction.
 
-(iv) Grid Y : the number of cells in the vertical direction.
+
 
